@@ -6,8 +6,7 @@ import Allroute from './component/Allroute';
 function App() {
   return (
     <div className="App">
-      <Navbar />
-      <Allroute />
+        
     </div>
   );
 }
